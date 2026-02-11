@@ -15,4 +15,5 @@ No JavaScript is used in this animation.
 - Created for learning and practicing frontend development skills
 
  This project is for learning and demonstration purposes only.
- Live Demo:https://gulbenizisayeva1.github.io/AnimationTask/
+ 
+ Live Demo: https://gulbenizisayeva1.github.io/AnimationTask/
